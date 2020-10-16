@@ -1,2 +1,1 @@
-# hlf-rpm-prereqs
-rpm - prereqs for HLF
+# hyperledger-fabric1.4-prereqs
